@@ -1,4 +1,4 @@
 streamlit
-google
+google-generativeai
 anthropic
 openai
